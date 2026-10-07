@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-private void printText(String input) {
-system.out.print("jack");
-
+## I Go to Lincoln Park Highschool
+## I owned a iphone
+## Xian
+## My interest are gaming and mechanical engineering/Computer Science engineering/AeroSpace Engineering,
+## Im a He/Him, 16 year old, loves games food.
