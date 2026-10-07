@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-System.out.println("Hello I Am Jack");
+Im jack+
 
