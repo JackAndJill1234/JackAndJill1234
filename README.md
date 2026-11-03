@@ -1,3 +1,6 @@
-Hello Im Jack and I go to Lincoln park high school, I owned an iphone 11 as my first technology, my hometown was in Xi an, China, and I like math, and I love playing games and procrastinating
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## I Go to Lincoln Park Highschool
+## I owned a iphone
+## Xian
+## My interest are gaming and mechanical engineering/Computer Science engineering/AeroSpace Engineering,
+## Im a He/Him, 16 year old, loves games food.
